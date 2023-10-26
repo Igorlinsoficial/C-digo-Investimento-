@@ -2,7 +2,7 @@ import yfinance as yf
 import statsmodels.api as sm
 
 
-ativos = ["PETR4.SA", "ITUB4.SA", 'CPLE6.SA', 'EQTL3.SA', 'BBAS3.SA', 'TIMS3.SA', 'XPLG11.SA', 'ORCL34.SA', 'AAPL34.SA', "^BVSP"]
+ativos = ["PETR4.SA", "ITUB4.SA", 'EQTL3.SA', 'BBAS3.SA', 'TIMS3.SA', 'XPLG11.SA', 'ORCL34.SA', 'AAPL34.SA', "^BVSP"]
 
 # Dit 
 betas = {}
